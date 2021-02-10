@@ -1,2 +1,2 @@
 # config-server
-Microserviço configuração dos servidores
+Microserviço configuração centralizada dos servidores 
